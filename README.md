@@ -1,5 +1,4 @@
 # Simple_Interest
-# Simple Interest Calculator Project
 
 ## Description
 This project calculates the simple interest based on user inputs such as principal amount, rate of interest, and time in years.
